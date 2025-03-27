@@ -21,7 +21,7 @@ body {
 /* cor Sombreado hsl(288, 54%, 19%) */
 /* cor mais clara hsl(289, 84%, 51%) */
 header {
-    padding: 40px 4%;
+    padding: 20px 4%;
 }
 
 header> .interface {
@@ -30,7 +30,7 @@ header> .interface {
     justify-content: space-between;
 }
 header a{
-    color: hsl(288, 54%, 19%);
+    color: hsl(288, 58%, 52%);
     text-decoration: none;
     display: inline-block;
     transition: .2s;
